@@ -20,7 +20,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/steeltoeoss/config-repo
+          uri: https://github.com/tezizzm/config-local-repo
 
 ---
 spring:
