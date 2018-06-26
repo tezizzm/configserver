@@ -15,4 +15,4 @@ $ java -jar target/*.jar
 ```
 
 It will start up on port 8888 and serve configuration data from
-"https://github.com/steeltoeoss/config-repo":
+"https://github.com/tezizzm/config-local-repo":
